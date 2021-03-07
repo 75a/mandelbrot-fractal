@@ -1,1 +1,1 @@
-[!Mandelbrot fractal](https://raw.githubusercontent.com/m-brz/mandelbrot-fractal/main/mandelbrot.png)
+![Mandelbrot fractal](https://raw.githubusercontent.com/m-brz/mandelbrot-fractal/main/mandelbrot.png?raw=true "Mandelbrot Fractal")
